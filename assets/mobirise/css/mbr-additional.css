@@ -7512,6 +7512,28 @@ body {
 .cid-qvuJTcUa56 .body-item {
   text-align: left;
 }
+.cid-qyWQ7jymp3 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #f9f9f9;
+  background: linear-gradient(0deg, #149dcc, #f9f9f9);
+}
+.cid-qyWQ7jymp3 .image-block {
+  margin: auto;
+}
+.cid-qyWQ7jymp3 figcaption {
+  position: relative;
+}
+.cid-qyWQ7jymp3 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qyWQ7jymp3 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qvkxhx69PC {
   padding-top: 15px;
   padding-bottom: 15px;
