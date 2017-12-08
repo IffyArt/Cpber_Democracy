@@ -6359,8 +6359,97 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
-.cid-qvkEk0vM7h {
+.cid-qDczfa4H7L {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f3f4f6;
+}
+.cid-qDczfa4H7L .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-qDczfa4H7L .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-qDczfa4H7L .mbr-author-desc {
+  color: #232;
+}
+.cid-qDcuIlaz4G {
   padding-top: 90px;
+  padding-bottom: 60px;
+  background-color: #f9f9f9;
+}
+.cid-qDcuIlaz4G h2 {
+  text-align: center;
+}
+.cid-qDcuIlaz4G h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qDcuIlaz4G p {
+  color: #767676;
+}
+.cid-qDcuIlaz4G .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-qDcuIlaz4G .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-qDcuIlaz4G .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-qDcuIlaz4G .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qDcuIlaz4G .card-title {
+  font-weight: 500;
+}
+.cid-qDcuIlaz4G .card-img {
+  text-align: inherit;
+}
+.cid-qDcuIlaz4G .card-img span {
+  font-size: 48px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qDcuIlaz4G .mbr-figure {
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qDcuIlaz4G .mbr-figure {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qDcuIlaz4G .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+  .cid-qDcuIlaz4G .block-content {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    text-align: center;
+  }
+  .cid-qDcuIlaz4G .block-content .card {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+  }
+}
+.cid-qvkEk0vM7h {
+  padding-top: 0px;
   padding-bottom: 60px;
   background-color: #f9f9f9;
 }
@@ -6473,6 +6562,11 @@ body {
   background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qDcvONh0iF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-qvkxhx69PC {
   padding-top: 15px;
