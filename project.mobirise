@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "photo.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 246,
-    "versionPublish": "4.6.2",
+    "uniqCompNum": 248,
+    "versionPublish": "4.6.6",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -42,7 +42,8 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-106189205-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-106189205-3');\r\n</script>\r\n",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -943,6 +944,20 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<a class=\"click-log\" href=\"http://www.reliablecounter.com\" target=\"_blank\">\n    <img src=\"http://www.reliablecounter.com/count.php?page=github.com/IffyArt/Cyber_Democracy&amp;digit=style/plain/5/&amp;reloads=1\" alt=\"\" title=\"\" border=\"0\">\n</a>\n",
+          "_customCSS": ".click-log{\n    background-color: #2e2e2e;\n    display: block;\n    margin: 0px;\n}\n.click-log img{\n    margin: auto;\n    display: block;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-6v",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
